@@ -3,3 +3,5 @@ There are two video demos in the presentation which are embedded in Google Slide
 Please use the following youtube links:<br />
 ret2libc demo: https://youtu.be/OQD8wuPkBs4<br />
 ropper demo: https://youtu.be/_44iGOpJ_xE
+
+There is no audio. In the live version I spoke over the footage. Sorry, wish you were there!
